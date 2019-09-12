@@ -4,16 +4,20 @@ using namespace std;
 
 class C {
     private:
-        string A1;
-        int A2;
+        string C1;
+        int C2;
 
     public:
 
-        void CA1() {
-            cout << "CA1";
+        void MC1() {
+            cout << "MC1";
         }
 
-        void CA2() {
-            cout << "CA2";
+        void MC2() {
+            cout << "MC2";
+        }
+
+        void MC3() {
+            cout << "MC3";
         }
 };
