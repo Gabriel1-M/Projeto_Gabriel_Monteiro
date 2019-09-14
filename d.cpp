@@ -20,4 +20,8 @@ class D {
         void MD3() {
             cout << "MD3";
         }
+    
+        void MD4() {
+            cout << "MD4";
+        }
 };
